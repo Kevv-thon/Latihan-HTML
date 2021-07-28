@@ -1,2 +1,2 @@
 ﻿# Latihan-HTML
-![alt text](http://url/to/img.png)
+![alt text](C:\Users\LENOVO\Pictures\Screenshots\Screenshot (103).png)
